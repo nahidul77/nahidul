@@ -1,5 +1,5 @@
 ## Hi, I'm Nahidul Islam 👋
-<p>👑 I am Fullstack Web Developer</p> 
+<p>👑 I am Full Stack Web Developer</p> 
 
 ![Profile views](https://gpvc.arturio.dev/nahidul77) 
 
