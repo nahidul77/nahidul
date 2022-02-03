@@ -6,14 +6,18 @@
 
 ![Profile views](https://gpvc.arturio.dev/nahidul) 
 
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
+I am an innovative web developer with experience in the Web development, Web design, Database design, Troubleshooting and advanced programming. I have a passion for developing scalable web applications and working across the full stack. Having extensive experience working with PHP, committed to providing high-level solutions that drive business and provide outstanding cost efficiency.
+I am an active learner, Self-motivated, detail-oriented, and creative problem-solver. Proficient in both coding and design, as well as software testing and debugging. I love to complete my work in time with maintaining the quality of codding. I prefer the quality of work rather than quantity. Client satisfaction is my top priority. Let's make a great application together.
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ Laravel <br> 
 ✅ CakePHP <br> 
 ✅ Wordpress <br> 
-✅ JavaScript <br>
 ✅ PHP <br>
+✅ MYSQL <br>
+✅ JavaScript <br>
+✅ JQuery <br>
+✅ React <br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul77&layout=compact)
