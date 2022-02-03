@@ -1,11 +1,9 @@
-## Hi, I'm Nahid 👋
+## Hi, I'm Nahidul Islam 👋
 <p>
-👑 I am Web Developer <br> 
-🖊️ Love to write code <br> 
-🎤 Like to share my knowledge </p> 
-
+👑 I am Fullstack Web Developer <br> 
 ![Profile views](https://gpvc.arturio.dev/nahidul) 
-
+ <hr>
+ 
 I am an innovative web developer with experience in the Web development, Web design, Database design, Troubleshooting and advanced programming. I have a passion for developing scalable web applications and working across the full stack. Having extensive experience working with PHP, committed to providing high-level solutions that drive business and provide outstanding cost efficiency.
 I am an active learner, Self-motivated, detail-oriented, and creative problem-solver. Proficient in both coding and design, as well as software testing and debugging. I love to complete my work in time with maintaining the quality of codding. I prefer the quality of work rather than quantity. Client satisfaction is my top priority. Let's make a great application together.
 
