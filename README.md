@@ -15,7 +15,7 @@ I am an active learner, Self-motivated, detail-oriented, and creative problem-so
 ✅ MYSQL <br>
 ✅ JavaScript <br>
 ✅ JQuery <br>
-✅ React <br>
+✅ Angular <br>
 ✅ HTML5 / CSS3 / SASS / Bootstrap <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul77&layout=compact)
