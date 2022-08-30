@@ -10,6 +10,7 @@ I am an active learner, Self-motivated, detail-oriented, and creative problem-so
 ## 👨‍💻 Skills & Experiance: 
 ✅ Laravel <br> 
 ✅ CakePHP <br> 
+✅ Codeigniter <br>
 ✅ Wordpress <br> 
 ✅ PHP <br>
 ✅ MYSQL <br>
