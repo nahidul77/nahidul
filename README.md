@@ -27,7 +27,7 @@ I am an active learner, Self-motivated, detail-oriented, and creative problem-so
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul77&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul77&layout=compact&theme=dracula)
 
 ## 🔥 Streak Stats
 
