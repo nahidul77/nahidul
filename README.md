@@ -8,16 +8,24 @@ I am an innovative web developer with experience in the Web development, Web des
 I am an active learner, Self-motivated, detail-oriented, and creative problem-solver. Proficient in both coding and design, as well as software testing and debugging. I love to complete my work in time with maintaining the quality of codding. I prefer the quality of work rather than quantity. Client satisfaction is my top priority. Let's make a great application together.
 
 ## 👨‍💻 Skills & Experiance: 
-✅ Laravel <br> 
-✅ CakePHP <br> 
-✅ Codeigniter <br>
-✅ Wordpress <br> 
-✅ PHP <br>
-✅ MYSQL <br>
-✅ JavaScript <br>
-✅ JQuery <br>
-✅ Angular <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CakePHP Badge](https://img.shields.io/badge/CakePHP-D33C43?logo=cakephp&logoColor=fff&style=for-the-badge)
+![CodeIgniter Badge](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=fff&style=for-the-badge)
+![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=flat-square&logo=elementor&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Angular Badge](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul77&layout=compact)
 
