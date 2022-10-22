@@ -1,5 +1,5 @@
 ## Hi, I'm Nahidul Islam 👋
-<p>👨‍💻 Full Stack Web Developer, Zend certified engineer. </p> 
+<p>👨‍💻 Full Stack Web Developer, Zend Certified Engineer. </p> 
 
 ![Profile views](https://gpvc.arturio.dev/nahidul77) 
 
