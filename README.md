@@ -6,6 +6,15 @@
  
 I am an innovative web developer with experience in the Web development, Web design, Database design, Troubleshooting and advanced programming. I have a passion for developing scalable web applications and working across the full stack. Having extensive experience working with PHP, committed to providing high-level solutions that drive business and provide outstanding cost efficiency.
 
+• Skills
+Coding, Debugging, Troubleshooting, Problem-solving, creativity, Project Planning, Team collaboration, Adaptability, Testing, Documentation, Multitasking, Leadership.
+
+• Languages & Frameworks
+PHP, Javascript, SQL, C, Laravel, CakePHP, Codeigniter, JQuery, React JS, HTML, CSS, Bootstrap.
+
+• Programming Tools:
+GIT, PHPUnit, Composer, Docker
+
 I am an active learner, Self-motivated, detail-oriented, and creative problem-solver. Proficient in both coding and design, as well as software testing and debugging. I love to complete my work in time with maintaining the quality of codding. I prefer the quality of work rather than quantity. Client satisfaction is my top priority. Let's make a great application together.
 
 ## 💻 Skills & Experiance
