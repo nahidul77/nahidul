@@ -36,6 +36,7 @@ I am an active learner, Self-motivated, detail-oriented, and creative problem-so
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
 ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=for-the-badge)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul77&layout=compact&theme=dracula)
