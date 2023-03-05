@@ -10,7 +10,7 @@ I am an innovative web developer with experience in the Web development, Web des
 Coding, Debugging, Troubleshooting, Problem-solving, creativity, Project Planning, Team collaboration, Adaptability, Testing, Documentation, Multitasking, Leadership.
 
 • Languages & Frameworks
-PHP, Javascript, SQL, C, Laravel, CakePHP, Codeigniter, JQuery, React JS, HTML, CSS, Bootstrap.
+PHP, Javascript, SQL, C, Laravel, CakePHP, Codeigniter, JQuery, Vue JS, HTML, CSS, Bootstrap.
 
 • Programming Tools:
 GIT, PHPUnit, Composer, Docker
