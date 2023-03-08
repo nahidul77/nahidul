@@ -39,6 +39,7 @@ I am an active learner, Self-motivated, detail-oriented, and creative problem-so
 ![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
+![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul77&layout=compact&theme=dracula)
